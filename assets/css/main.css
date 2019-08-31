@@ -99,7 +99,7 @@ input, select, textarea {
 	}
 
 	body {
-		background: #ffffff;
+		background: #F9EAEA;
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after, body.is-resizing *, body.is-resizing *:before, body.is-resizing *:after {
@@ -3604,3 +3604,9 @@ input, select, textarea {
 			margin-top: 0;
 			padding-top: 0;
 		}
+
+		body {
+			color: black;
+		}
+		
+		
